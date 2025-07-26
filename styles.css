@@ -120,6 +120,7 @@ section.content:last-of-type {
   padding: 20px;
   text-shadow: 2px 2px 8px var(--shadow-color);
   right: 30%;
+  margin-left: 5%;
 }
 
 .parallax p {
